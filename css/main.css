@@ -5,7 +5,7 @@
 }
 
 .thumbnail {
-  width: 150px;
+  width: 180px;
   height: 180px;
 }
 
@@ -33,4 +33,7 @@
   padding: 10px;
   text-align: center;
   border-top: 1px solid rgba(210, 210, 210, 0.7);
+}
+.Lastline {
+margin-bottom:40px;
 }
